@@ -1,5 +1,5 @@
 <?php 
 
-	print "PHP";
+	print "PHP 2";
 
 ?>
