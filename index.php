@@ -1,5 +1,5 @@
 <?php 
 
-	print "PHP hello";
+	print "PHP";
 
 ?>
